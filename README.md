@@ -1,1 +1,2 @@
 # lavanshi-HexSoftware_Covid19
+The Covid-19 Data Analysis Project involves collecting and analyzing real-time data on Covid-19 cases, recoveries, and fatalities from various sources. It utilizes libraries like Pandas, NumPy, and Matplotlib for data manipulation, cleaning, and visualization. The project aims to identify patterns, trends, and correlations in the data, such as the impact of vaccination rates or lockdown measures on the spread of the virus.
